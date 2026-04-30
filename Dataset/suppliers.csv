@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,contact_email,lead_time_days,is_active
+SUP_0001,"Rodriguez, Figueroa and Sanchez",China,jillrhodes@miller.com,3,True
+SUP_0002,Wagner Inc,India,jennifermiles@robinson-lawrence.com,10,True
+SUP_0003,Wolfe LLC,China,eric51@james.com,24,True
+SUP_0004,"Baker, Williams and Stevens",Canada,dudleynicholas@carter.com,5,True
+SUP_0005,"Lee, Jones and Stanley",United States,tracie31@ramirez-reid.com,3,True
+SUP_0006,Wood and Sons,India,jacqueline19@jackson.biz,19,True
+SUP_0007,Mayo-Bowman,Canada,gabriellecameron@perez.com,9,True
+SUP_0008,Adams-Clark,Canada,jason76@ellis.net,16,True
+SUP_0009,"Baker, Richards and Hurst",Italy,icox@snyder.com,11,True
+SUP_0010,"Moore, Becker and Carlson",United States,djames@king.com,27,True
+SUP_0011,"Dyer, Potter and Mack",Vietnam,daniel62@smith-bowen.com,13,True
+SUP_0012,"Gill, Romero and Rodriguez",India,meagan89@hernandez.net,27,True
+SUP_0013,"Sellers, George and Burns",China,hickmannatasha@allen-allen.org,15,True
+SUP_0014,Miller Group,South Korea,spenceamanda@anderson.net,22,True
+SUP_0015,Baker PLC,United States,ibrandt@vaughn.com,26,True
+SUP_0016,Lam-Hayes,China,jeffreymorgan@spencer.com,15,True
+SUP_0017,Jones Inc,Japan,chad34@washington.org,29,True
+SUP_0018,"Kennedy, Mueller and Aguirre",South Korea,clintonhopkins@henderson-owens.com,21,True
+SUP_0019,"Valdez, Lucas and Brown",China,lauren13@lee.com,4,True
+SUP_0020,White-Ford,Japan,ramosmichelle@garcia.com,5,True

@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,cost_price,selling_price,supplier_id,is_active
+PROD_00001,Advanced Shirts,Clothing,Shirts,210.36,273.24,SUP_0014,True
+PROD_00002,Premium Bed,Furniture,Bed,452.9,639.87,SUP_0019,True
+PROD_00003,Deluxe Tablet,Electronics,Tablet,152.81,202.55,SUP_0018,True
+PROD_00004,Smart Athletics,Sports,Athletics,449.42,615.57,SUP_0014,True
+PROD_00005,Elite Table,Furniture,Table,336.09,507.21,SUP_0015,True
+PROD_00006,Premium Athletics,Sports,Athletics,18.35,24.36,SUP_0003,True
+PROD_00007,Pro Shoes,Clothing,Shoes,94.96,120.32,SUP_0007,True
+PROD_00008,Deluxe Produce,Grocery,Produce,142.74,225.25,SUP_0009,True
+PROD_00009,Pro Sofa,Furniture,Sofa,375.77,440.94,SUP_0008,True
+PROD_00010,Premium Laptop,Electronics,Laptop,475.06,588.94,SUP_0020,True
+PROD_00011,Ultra Shoes,Clothing,Shoes,336.38,472.21,SUP_0015,True
+PROD_00012,Classic Snacks,Grocery,Snacks,304.92,482.9,SUP_0006,False
+PROD_00013,Deluxe Monitor,Electronics,Monitor,17.71,22.85,SUP_0013,True
+PROD_00014,Ultra Shirts,Clothing,Shirts,298.09,454.22,SUP_0004,True
+PROD_00015,Premium Frozen Foods,Grocery,Frozen Foods,403.74,608.96,SUP_0012,True
+PROD_00016,Deluxe Beverages,Grocery,Beverages,255.45,332.99,SUP_0016,True
+PROD_00017,Smart Produce,Grocery,Produce,355.12,477.98,SUP_0020,True
+PROD_00018,Smart Team Sports,Sports,Team Sports,235.11,357.74,SUP_0011,True
+PROD_00019,Advanced Tablet,Electronics,Tablet,441.41,556.06,SUP_0019,True
+PROD_00020,Elite Table,Furniture,Table,19.21,29.45,SUP_0016,True
+PROD_00021,Smart Dairy,Grocery,Dairy,143.43,203.42,SUP_0018,True
+PROD_00022,Ultra Shirts,Clothing,Shirts,124.47,165.91,SUP_0016,True
+PROD_00023,Ultra Bed,Furniture,Bed,397.5,473.77,SUP_0013,True
+PROD_00024,Pro Frozen Foods,Grocery,Frozen Foods,187.67,262.56,SUP_0014,False
+PROD_00025,Smart Cycling,Sports,Cycling,179.15,242.6,SUP_0009,True
+PROD_00026,Elite Jackets,Clothing,Jackets,64.18,89.28,SUP_0007,True
+PROD_00027,Smart Table,Furniture,Table,363.67,578.04,SUP_0004,True
+PROD_00028,Elite Snacks,Grocery,Snacks,183.64,236.16,SUP_0009,True
+PROD_00029,Advanced Monitor,Electronics,Monitor,149.61,235.61,SUP_0004,True
+PROD_00030,Elite Cycling,Sports,Cycling,237.35,320.0,SUP_0002,True
+PROD_00031,Classic Sofa,Furniture,Sofa,411.95,548.02,SUP_0019,True
+PROD_00032,Smart Smartphone,Electronics,Smartphone,78.85,110.65,SUP_0003,False
+PROD_00033,Ultra Monitor,Electronics,Monitor,383.4,545.52,SUP_0017,True
+PROD_00034,Smart Table,Furniture,Table,430.78,687.32,SUP_0019,True
+PROD_00035,Ultra Fitness,Sports,Fitness,474.06,589.5,SUP_0009,True
+PROD_00036,Premium Jeans,Clothing,Jeans,91.04,107.77,SUP_0014,True
+PROD_00037,Smart Team Sports,Sports,Team Sports,149.17,187.08,SUP_0015,True
+PROD_00038,Ultra Jackets,Clothing,Jackets,394.97,565.31,SUP_0014,True
+PROD_00039,Classic Jeans,Clothing,Jeans,454.66,691.99,SUP_0002,True
+PROD_00040,Smart Frozen Foods,Grocery,Frozen Foods,375.73,528.33,SUP_0015,True
+PROD_00041,Advanced Produce,Grocery,Produce,471.62,648.58,SUP_0015,True
+PROD_00042,Premium Headphones,Electronics,Headphones,368.59,524.01,SUP_0003,True
+PROD_00043,Smart Athletics,Sports,Athletics,475.64,760.93,SUP_0019,True
+PROD_00044,Smart Shoes,Clothing,Shoes,261.89,353.29,SUP_0006,False
+PROD_00045,Deluxe Bed,Furniture,Bed,484.68,659.89,SUP_0011,True
+PROD_00046,Smart Smartphone,Electronics,Smartphone,168.25,246.01,SUP_0013,True
+PROD_00047,Pro Fitness,Sports,Fitness,230.14,297.23,SUP_0004,False
+PROD_00048,Advanced Cabinet,Furniture,Cabinet,413.34,475.56,SUP_0014,True
+PROD_00049,Advanced Cycling,Sports,Cycling,313.2,430.44,SUP_0002,True
+PROD_00050,Advanced Outdoor,Sports,Outdoor,464.2,625.35,SUP_0004,True
+PROD_00051,Premium Outdoor,Sports,Outdoor,356.34,459.62,SUP_0018,True
+PROD_00052,Elite Shirts,Clothing,Shirts,233.42,280.77,SUP_0016,True
+PROD_00053,Advanced Frozen Foods,Grocery,Frozen Foods,354.18,473.53,SUP_0016,True
+PROD_00054,Elite Outdoor,Sports,Outdoor,194.88,304.96,SUP_0003,True
+PROD_00055,Premium Table,Furniture,Table,467.45,644.37,SUP_0010,True
+PROD_00056,Elite Athletics,Sports,Athletics,499.46,684.43,SUP_0015,True
+PROD_00057,Advanced Dairy,Grocery,Dairy,278.2,387.96,SUP_0011,True
+PROD_00058,Deluxe Accessories,Clothing,Accessories,194.57,298.71,SUP_0002,True
+PROD_00059,Elite Bed,Furniture,Bed,196.11,284.1,SUP_0016,False
+PROD_00060,Classic Accessories,Clothing,Accessories,482.85,627.41,SUP_0015,True
+PROD_00061,Elite Sofa,Furniture,Sofa,362.61,483.9,SUP_0003,True
+PROD_00062,Classic Dairy,Grocery,Dairy,313.51,416.61,SUP_0011,True
+PROD_00063,Advanced Team Sports,Sports,Team Sports,477.3,683.52,SUP_0018,True
+PROD_00064,Ultra Smartphone,Electronics,Smartphone,317.42,496.58,SUP_0003,True
+PROD_00065,Premium Laptop,Electronics,Laptop,224.62,328.46,SUP_0002,True
+PROD_00066,Ultra Tablet,Electronics,Tablet,182.44,245.16,SUP_0017,True
+PROD_00067,Deluxe Jeans,Clothing,Jeans,91.66,130.55,SUP_0020,True
+PROD_00068,Smart Cabinet,Furniture,Cabinet,75.84,102.95,SUP_0015,True
+PROD_00069,Elite Headphones,Electronics,Headphones,451.1,656.32,SUP_0003,True
+PROD_00070,Smart Frozen Foods,Grocery,Frozen Foods,153.08,242.31,SUP_0015,True
+PROD_00071,Deluxe Shoes,Clothing,Shoes,427.4,512.02,SUP_0019,True
+PROD_00072,Deluxe Dairy,Grocery,Dairy,15.86,24.16,SUP_0009,True
+PROD_00073,Smart Monitor,Electronics,Monitor,373.86,570.05,SUP_0008,True
+PROD_00074,Elite Snacks,Grocery,Snacks,320.13,457.59,SUP_0004,True
+PROD_00075,Pro Tablet,Electronics,Tablet,395.36,460.6,SUP_0005,True
+PROD_00076,Elite Dairy,Grocery,Dairy,375.0,460.89,SUP_0018,True
+PROD_00077,Elite Frozen Foods,Grocery,Frozen Foods,253.39,322.47,SUP_0009,True
+PROD_00078,Classic Table,Furniture,Table,374.55,487.82,SUP_0015,False
+PROD_00079,Deluxe Jeans,Clothing,Jeans,430.77,635.77,SUP_0018,True
+PROD_00080,Pro Sofa,Furniture,Sofa,135.91,163.86,SUP_0009,True
+PROD_00081,Pro Beverages,Grocery,Beverages,339.04,461.83,SUP_0020,True
+PROD_00082,Deluxe Headphones,Electronics,Headphones,455.15,585.32,SUP_0004,True
+PROD_00083,Ultra Tablet,Electronics,Tablet,497.98,598.7,SUP_0018,True
+PROD_00084,Deluxe Table,Furniture,Table,336.89,500.08,SUP_0019,True
+PROD_00085,Deluxe Shoes,Clothing,Shoes,329.19,502.07,SUP_0009,True
+PROD_00086,Pro Snacks,Grocery,Snacks,224.47,354.16,SUP_0004,False
+PROD_00087,Premium Frozen Foods,Grocery,Frozen Foods,451.34,650.01,SUP_0013,True
+PROD_00088,Premium Headphones,Electronics,Headphones,50.38,62.75,SUP_0002,True
+PROD_00089,Ultra Jeans,Clothing,Jeans,394.55,490.17,SUP_0019,True
+PROD_00090,Premium Jackets,Clothing,Jackets,388.31,584.36,SUP_0009,True
+PROD_00091,Classic Jeans,Clothing,Jeans,272.41,411.16,SUP_0001,True
+PROD_00092,Smart Snacks,Grocery,Snacks,296.48,343.06,SUP_0002,True
+PROD_00093,Advanced Cabinet,Furniture,Cabinet,61.26,72.2,SUP_0012,True
+PROD_00094,Premium Headphones,Electronics,Headphones,254.4,400.79,SUP_0017,True
+PROD_00095,Deluxe Laptop,Electronics,Laptop,499.3,764.57,SUP_0004,True
+PROD_00096,Elite Sofa,Furniture,Sofa,450.14,582.91,SUP_0003,True
+PROD_00097,Smart Athletics,Sports,Athletics,276.44,358.36,SUP_0015,True
+PROD_00098,Ultra Sofa,Furniture,Sofa,397.58,477.69,SUP_0014,True
+PROD_00099,Deluxe Shoes,Clothing,Shoes,172.77,233.94,SUP_0004,True
+PROD_00100,Advanced Dairy,Grocery,Dairy,190.28,231.89,SUP_0003,True
