@@ -1,0 +1,11 @@
+store_id,store_name,city,state,region,store_type,open_date,is_active
+STR_001,Port Melindaburgh RetailCo,Port Melindaburgh,New York,North,Standalone,2016-11-30,True
+STR_002,Lewisfurt RetailCo,Lewisfurt,Hawaii,East,Mall,2010-12-31,True
+STR_003,Smithfurt RetailCo,Smithfurt,New Jersey,South,Express,2014-07-06,True
+STR_004,Rodneyside RetailCo,Rodneyside,Virginia,North,Express,2021-04-05,True
+STR_005,Mooreport RetailCo,Mooreport,Arkansas,South,Mall,2013-09-14,True
+STR_006,Lake Leeton RetailCo,Lake Leeton,New Mexico,East,Express,2019-12-09,True
+STR_007,North Susan RetailCo,North Susan,Idaho,South,Express,2011-05-13,True
+STR_008,New Carlosbury RetailCo,New Carlosbury,Delaware,North,Mall,2016-11-13,True
+STR_009,New Brooke RetailCo,New Brooke,Colorado,East,Standalone,2020-07-15,True
+STR_010,Sandovalshire RetailCo,Sandovalshire,Massachusetts,South,Express,2018-11-23,True
